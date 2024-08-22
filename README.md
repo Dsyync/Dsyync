@@ -2,7 +2,7 @@
 
 
 <p  align="center">
- <strong>💻 Stack I Work On :</strong>
+ <strong> 💻 Stack I Work On :</strong>
   <br>
   <br>
 <!-- Programming Language -->
